@@ -1,0 +1,8 @@
+README
+setup.py
+src/steelrumors/manage.py
+src/steelrumors.egg-info/PKG-INFO
+src/steelrumors.egg-info/SOURCES.txt
+src/steelrumors.egg-info/dependency_links.txt
+src/steelrumors.egg-info/requires.txt
+src/steelrumors.egg-info/top_level.txt
