@@ -16,5 +16,6 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^$', LinkListView.as_view(), name='home'),
     url(r'^links/', include('links.urls', namespace="links"))
 )
